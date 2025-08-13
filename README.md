@@ -11,7 +11,8 @@ This analysis serves as a preliminary investigation to identify potential temper
 ## Key Findings
 
 -   **Temperature Signal:** The model's most significant predictive path indicates that a rise in temperature from below **20.7°C** (8 weeks prior) to above **24.2°C** (6 weeks prior) is a strong indicator of an upcoming egg-laying week.
--   **Model Performance:** The model achieves a **Balanced Accuracy Score of ~56%** on the hold-out test set. While modest, the visual correlation between predictions and actual events is informative, successfully identifying key egg-laying periods.
+-   **Model Performance:** The model achieves a **Balanced Accuracy Score of ~56%** on the hold-out test set. While modest, the visual correlation between predictions and actual events is informative, successfully identifying key egg-laying periods:
+![Train-test][output2.png]  
 -   **Interpretability:** By using a simple Decision Tree with a limited depth (`max_depth=3`), the model's logic is fully transparent, making it a useful tool for generating hypotheses for biologists.
 
 ## Project Structure
