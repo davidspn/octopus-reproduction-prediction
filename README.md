@@ -1,6 +1,6 @@
 # Predicting Octopus Egg-Laying Events Using Water Temperature
 
-![Octopus](https://i.imgur.com/3441445980.jpg)
+![Octopus](pulpo.jpg)
 
 ## Project Overview
 
