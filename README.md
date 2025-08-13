@@ -47,7 +47,7 @@ This analysis serves as a preliminary investigation to identify potential temper
 
 The trained Decision Tree was visualized to understand the rules it learned for predicting an egg-laying event. The primary signal identified provides a clear, testable hypothesis for marine biologists.
 
-![Decision Tree](https://i.imgur.com/8QzXy3T.png)
+![Decision Tree](output.png)
 
 ## How to Run This Project
 
